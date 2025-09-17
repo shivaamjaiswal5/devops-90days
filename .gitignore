@@ -1,0 +1,34 @@
+# OS / Editor files
+.DS_Store
+*.swp
+*.swo
+*.bak
+
+# Python
+__pycade__/
+*.py[cod]
+*.egg-info/
+
+# Node.js
+node_modules/
+npm-debug.log
+
+#logs
+*.log
+
+#Virtual environments
+venv/
+.env
+
+# Terraform
+*.tfstate
+*.tfstate.
+.terraform/
+*.tfvars
+
+# Docker
+*.pid
+*.seed
+
+#Kubernetes
+.kube/
